@@ -19,7 +19,7 @@ Este é um projeto simples em HTML, CSS e JavaScript que gera a **tabuada** de u
 
 # 💡 Visualizar
 
-git clone https://github.com/richeliane-moura/tabuada.git
+https://richeliane-moura.github.io/Tabuada/
 
 ## 👨‍💻 Créditos
 
